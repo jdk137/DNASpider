@@ -1,0 +1,63 @@
+========= NM_000546.5(TP53):c.524G>A,p.R175H ===========
+
+ensemblId: ENSG00000141510
+no variant
+
+TA_function: non-functional
+
+Gene: TP53
+Residue: R175
+Type: single residue
+Variants: {"C": 8, "G": 14, "H": 386, "L": 8}
+Samples: 416
+
+TP53
+Tumor Suppressor
+Level	Alterations	Level-associated cancer types	Drugs	Citations
+3A	Y220C	All Solid Tumors	PC14586	2
+TP53 R175H
+oncogenic	knownEffect	Prognostic_Level	Diagnostic_Level
+Oncogenic	Loss-of-function	LEVEL_Px1	
+The TP53 R175H mutation is located in the protein's DNA binding domain. This mutation has been found in acute myeloid leukemia (PMID: 31068365). In vitro and in vivo studies have demonstrated that this mutation is inactivating and oncogenic, as measured by the reduced ability to induce apoptosis and form colonies, as well as increased cell migration and faster progression of hematopoietic malignancy of the mutant compared to TP53 wildtype or deletion (PMID: 15781620, 25584008, 31068365). Structural studies have also shown that this mutant is defective in protein folding and DNA binding (PMID: 10713666, 21445056).
+
+========= NM_000546.5(TP53):c.844C>T,p.R282W ===========
+
+ensemblId: ENSG00000141510
+no variant
+
+TA_function: non-functional
+
+Gene: TP53
+Residue: R282
+Type: single residue
+Variants: {"P": 4, "Q": 3, "R": 1, "W": 201, "G": 9, "L": 1}
+Samples: 219
+
+TP53
+Tumor Suppressor
+Level	Alterations	Level-associated cancer types	Drugs	Citations
+3A	Y220C	All Solid Tumors	PC14586	2
+TP53 R282W
+oncogenic	knownEffect	Prognostic_Level	Diagnostic_Level
+Likely Oncogenic	Likely Loss-of-function	LEVEL_Px1	
+The TP53 R282W mutation occurs in the protein's DNA binding domain. Expression of this mutation in TP53-null cell lines resulted in aggregation of mutant proteins, likely leading to destabilization of TP53 and upregulation of heat shock proteins (PMID: 21445056).
+
+========= NM_001098210.2(CTNNB1):c.1004A>T,p.K335I ===========
+
+ensemblId: ENSG00000168036
+no variant
+
+Gene: CTNNB1
+Residue: K335
+Type: single residue
+Variants: {"T": 3, "I": 16}
+Samples: 19
+
+CTNNB1
+Oncogene; 
+ no therap
+CTNNB1 K335I
+oncogenic	knownEffect	Prognostic_Level	Diagnostic_Level
+Oncogenic	Gain-of-function		
+The CTNNB1 K335I mutation is located in the APC/Axin binding region of the protein. This mutation has been found in kidney and intestinal cancer (PMID: 30155617, 28825729, 28481359). Expression of this mutation in embryonic kidney and hepatoma cell lines as well as in xenograft models demonstrated that it is activating as measured by increased protein activity and tumor growth compared to wildtype (PMID: 15579438, 24735922, 31857074).
+
